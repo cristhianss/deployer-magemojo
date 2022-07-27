@@ -1,5 +1,5 @@
 {
-  "name": "rafaelstz/deployer-magemojo",
+  "name": "cristhianss/deployer-magemojo",
   "description": "MageMojo Stratus Deployer Recipe",
   "keywords": ["deployment", "deployer", "deploy", "tool", "magemojo"],
   "license": [
@@ -7,8 +7,8 @@
   ],
   "authors": [
     {
-      "name": "Rafael Corrêa Gomes",
-      "email": "rafaelcgstz@gmail.com"
+      "name": "Cristhian Silveira Silva",
+      "email": "cristhianss@gmail.com"
     }
   ],
   "require": {
